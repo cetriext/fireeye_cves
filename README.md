@@ -1,4 +1,15 @@
-# vFeed CVEs Vulnerability Indicators that should be addressed to limit the effectiveness of the Leaked FireEye Red Team tools
+## vFeed, Inc. Vulnerability Indicators
+### Urgent CVEs that should be addressed to limit the effectiveness of the Leaked FireEye Red Team tools
+
+### Indicators comprise of the following data:
+* ATT&CK Mitre ID when available
+* Patches, Hotfixes, Bug ID
+* SCAP & OVAL definitions
+* Signatures for scanning tools
+* Exploits & PoCs from Github, Metasploit, ExploitDB ...
+* IPS, WAF Rules for Snort, Suricata, Comodo, Juniper ...
+
+Here is the list of the CVEs to patch in Priority:
 
   1. [CVE-2019-11510](https://nvd.nist.gov/vuln/detail/CVE-2019-11510) – pre-auth arbitrary file reading from Pulse Secure SSL VPNs - CVSS 10.0
   2. [CVE-2020-1472](https://nvd.nist.gov/vuln/detail/CVE-2020-1472) – Microsoft Active Directory escalation of privileges - CVSS 10.0
